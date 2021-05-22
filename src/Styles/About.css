@@ -1,0 +1,62 @@
+.about_page{
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+.service_section{
+   
+    background: #fcfaf4;
+    padding: 80px 0px ;
+
+}
+
+.about_me{
+    left: 0;
+    width: 51%;
+    margin-left: 0;
+    padding:20px;
+    float: left;
+    box-sizing: border-box;
+    text-align: center;
+    padding-top: -20px;
+    margin-top: -20px;
+
+}
+.about_me h1{
+    margin-bottom: 0;
+    
+}
+.about_me h2{
+    margin-top: 0;
+    font-size: 25px;
+}
+.about_skill{
+    top: 0;
+    width: 49%;
+    padding-left: 15px;
+    background: #fffefa;
+    left: 0;
+    float: right; 
+    box-sizing: border-box;  
+
+}
+
+.progressbar_item{
+    width: 80%;
+    height: 6px;
+    margin-bottom: 3px;
+    margin-left: 10px;
+
+}
+
+
+.progress_bar label {
+    font-size: 12px;
+}
+label:nth-child(1){
+    padding-right:7px ;
+
+}
+.js label{
+    padding-right: 0px;
+}

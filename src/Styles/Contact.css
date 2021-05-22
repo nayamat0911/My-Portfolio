@@ -1,0 +1,46 @@
+.contact_section{
+    
+    box-sizing: border-box;
+}
+.contact_title{
+    text-align: center;
+}
+.contact_into{
+    display: flex;
+    padding: 0;
+    margin: 0;
+}
+.contact_address{
+    width: 80%;
+    
+    
+}
+.contact_from{
+    width: 100%;
+    right: 0;
+    
+}
+.address_one_info label{
+    font-size: 16px;
+}
+.contact_address a{
+    margin-top: 10px;
+    font-size: 26px;
+    padding: 10px 12px;
+    text-decoration: none;
+    color: brown;
+    margin-left: 35%;
+    font-weight: bold;
+    
+    
+}
+.contact_map{
+    
+    text-align: center;
+    height: auto;
+    padding:.6rem .5rem .5rem .5rem;
+    margin:2rem 2rem;
+    background-color: #e9e9e9;
+    
+   
+}

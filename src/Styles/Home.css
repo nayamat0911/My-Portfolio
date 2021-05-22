@@ -1,0 +1,139 @@
+
+.Hero_serction{
+    box-sizing: border-box;
+    overflow: hidden;
+   
+}
+
+.bg_img img{
+    top: 0;
+    background-size: cover;
+    width:100% ;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
+.NavBar{
+position:absolute;
+padding-top:50px;
+text-align: right;
+padding-right: 6%;
+background-color:'';
+right: 0;
+top: 0;
+}
+.NavBar .Nav{
+
+
+}
+.Nav .Nav-items{
+    display: inline;
+    text-decoration: none;
+}
+
+.Nav-items .Nav-item{
+    list-style: none;
+    display: inline;
+    padding: 20px 15px;
+    margin: 0 8px;
+    font-size: 20px;
+    border: 1.5px solid #fafafa;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    transition: all ease-in-out 2s;
+    -webkit-transition:;
+    -moz-transition:;
+    -ms-transition:;
+    -o-transition:;
+}
+.Nav-items :hover {
+    background: #bb1010;
+    color: #000;
+    transition: all 2s;
+    -webkit-transition:;
+    -moz-transition:;
+    -ms-transition:;
+    -o-transition:;
+    opacity: .8;
+}
+.Nav-items a{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-style: italic;
+    text-shadow: 1px 4px 2px #d80e0e;
+    opacity: 1;
+    
+    
+}
+.Nav-items a :hover{
+    transition:all 2s;
+    -webkit-transition:all 2s;
+    -moz-transition:all 2s;
+    -ms-transition:all 2s;
+    -o-transition:all 2s;
+}
+
+.bg_text{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    padding-top: -50%;
+    padding-left: -50%;
+    color: #f50707;
+}
+.bg_text .heading h2{
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 0;
+    
+}
+.bg_text .heading p{
+    margin-top: 0;
+    font-size:1.5rem;
+    font-weight: bold;
+
+}
+.bg_text .button{
+    
+}
+.button button{
+    font-size: 1.2rem;
+    padding: 20px 30px;
+    margin-left: 15px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    color: #ffffff;
+    font-weight: bold;
+    background:transparent;
+    transition: all 1s;
+    -webkit-transition:;
+    -moz-transition:;
+    -ms-transition:;
+    -o-transition:;
+}
+.button .button_1 {
+    background: #691f1f;
+    
+}
+.button .button_2 {
+    background: #057e0b;
+    
+}
+.button_1:hover {
+    background: #ff0707;
+    
+}
+.button_2:hover{
+    background: #03ff10;
+}

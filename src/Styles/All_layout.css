@@ -1,0 +1,58 @@
+.App{
+    box-sizing: border-box;
+   
+}
+
+.Side_bar{
+    width: 18%;
+    height: 100vh;
+    background:#000000 ;
+    position: fixed;
+    color: #ffffff;
+    padding: 20px;
+   
+
+}
+.main_content{
+    width: 82%;
+    height: 100vh;
+    margin-left: 18%;
+    background: seashell;
+    box-sizing: border-box;
+    
+}
+.pad_all_sec{
+    padding:90px 0px 90px 0px;
+}
+.all_sec_title_1{
+    font-size: 2rem;
+    font-weight: bold;
+    color: #ffa600;
+    padding-bottom: 20px;
+
+}
+.all_sec_title_2{
+    font-size: 2rem;
+    color: #138609;
+    font-weight: bold;
+    padding-bottom: 20px;
+    
+}
+.all_sec_sub_title_1{
+    font-size: 1.2rem;
+    color: rgb(103, 110, 0);
+    font-weight:lighter;
+    padding-bottom: 18px;
+    
+}
+.some_sub_title{
+    padding-top: 0px;
+    margin-top: 0px;
+}
+.all_sec_sub_title_2{
+    font-size: 1rem;
+    color: #757e00;
+    font-weight: bold;
+    padding-bottom: 18px;
+    
+}

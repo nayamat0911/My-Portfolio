@@ -1,0 +1,64 @@
+.foter_section{
+    background: #0c0202;
+    padding: 50px 20px 20px 20px;
+    box-sizing: border-box;
+    display: flex;
+    color: #ffffff;
+    
+}
+.footer_left{
+    width: 70%;
+    
+}
+.send_option{
+    
+    text-align: center;
+    
+}
+.send_option input{
+    width:30%;
+    padding: 7px 15px;
+    border: 2px solid #ffdbdbee ;
+    background:#ffdbdbee;
+  
+}
+.send_option Button{
+    padding: 7px 15px;
+    border: 2px solid #009e15ee ;
+    margin-bottom: 6px;
+    background:#009e15ee;
+  
+}
+.subscribe_option Button{
+    width: 39%;
+    padding: 5px 25px;
+    border: 2px solid #009e15ee ;
+    background:#009e15ee;
+  
+}
+.important_link{
+    width: 30%;
+    text-align: center;
+    border-left: 2px solid #e90d0d;
+   
+}
+.important_link {
+   font-size: 1.3rem;
+   
+}
+.important_link a{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: .8rem;
+    display: block;
+
+}
+.important_lonk a:hover{
+    color: #e90d0d;
+    
+}
+.footer_box h1{
+    color: #ff6347;
+    font-size: 40px;
+    text-align: center;
+}

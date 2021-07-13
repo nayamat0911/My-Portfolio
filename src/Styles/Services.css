@@ -1,0 +1,101 @@
+.service_section{
+    
+    background: #e0e0e065;
+    text-align: justify;
+    padding-bottom: 100px;
+    
+
+}
+
+.header_text{
+    text-align: center;
+
+}
+.header_text h2{
+    font-size: 1.5rem;
+}
+.header_text h3{
+    font-size: 16px;
+    
+}
+.service_item{
+    width:100%;
+    text-align:center;
+    padding-top: 30px;
+}
+.services_point{
+    font-size: 2rem;
+    text-align:center;
+    
+}
+.services_point h3{
+    padding-top: 16px;
+    text-transform:capitalize;
+    
+}
+.services_point a{
+    background: #eff3be;
+    font-weight: bold;
+    color: darkslategray;
+    border: 1px solid #520808;
+    margin-top: 10px;
+    padding:5px 13px 10px 13px;
+    border-radius:50% ;
+    -webkit-border-radius:50% ;
+    -moz-border-radius:50% ;
+    -ms-border-radius:50% ;
+    -o-border-radius:50% ;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+}
+.services_point a:hover{
+    background: #ffce2e;
+    color: dimgray;
+    transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    -moz-transform: scale(1.5);
+    -ms-transform: scale(1.5);
+    -o-transform: scale(1.5);
+}
+.services_point p{
+    text-align: justify;
+    font-size: 15px;
+    padding: 15px 20px;
+}
+.services_point_items{
+    border: 1px solid #bbbbbb;
+    margin-left: 35px;
+    padding:18px 20px;
+    margin-top: 0px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    box-shadow: 2px 3px 3px #ffde66;
+    
+}
+.services_point_items Button{
+    background: #faffce;
+    padding: 6px 30px;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: 0px;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+    transition: all 1.2s;
+    -webkit-transition: all 1.2s;
+    -moz-transition: all 1.2s;
+    -ms-transition: all 1.2s;
+    -o-transition: all 1.2s;
+}
+.services_point_items:nth-child(3){
+    margin-right: 35px;
+}

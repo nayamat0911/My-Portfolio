@@ -1,0 +1,57 @@
+.contact_section{
+    
+    box-sizing: border-box;
+}
+.contact_title{
+    text-align: center;
+}
+.contact_into{
+    display: flex;
+    padding: 0;
+    margin: 0;
+}
+.contact_address{
+  
+    
+    
+}
+.contact_from{
+    width: 100%;
+    right: 0;
+    
+}
+.address_one_info{
+    width: 30%;
+    height: 140px;
+    margin: 10% 0px 0px 30px;
+    text-align: center;
+    border: 1px solid rgb(218, 218, 218);
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.address_one_info label{
+    font-size: 16px;
+    padding-top: 10px;
+}
+.contact_address a{
+    padding-top: 30px;
+    font-size: 26px;
+    text-decoration: none;
+    color: brown;
+    font-weight: bold;
+    
+}
+.contact_address label{
+    margin-left: 30px;
+    font-size: 16px;
+    color: rgb(14, 11, 11);
+   
+    
+}
+
+.contact_form{
+    
+}
